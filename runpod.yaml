@@ -1,0 +1,6 @@
+name: superagi-autodeploy
+image: auto
+gpu: false
+containerDiskInGB: 5
+volumeInGB: 10
+port: 3000
